@@ -18,6 +18,4 @@ Install requirements.txt
 pip install -r requirements.txt
 ```
 
-![Getting Started](images/data-processing-pipeline.jpg)
-
-image.png
+![Image](images\data-processing-pipeline.JPG)
