@@ -18,4 +18,4 @@ Install requirements.txt
 pip install -r requirements.txt
 ```
 
-![Image](images\data-processing-pipeline.JPG)
+![Image](images/data-processing-pipeline.JPG)
