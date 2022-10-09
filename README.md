@@ -1,4 +1,6 @@
-# spamclassifier
+# Spam Classifer
+
+This repo explains the basic steps to perform on text data to classify the text messages as
 
 Creating conda env
 
@@ -18,6 +20,6 @@ Install requirements.txt
 pip install -r requirements.txt
 ```
 
-Data Preprocessing Pipeline
+### Data Preprocessing Pipeline
 
 ![Image](images/data-processing-pipeline.JPG)
